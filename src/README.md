@@ -1,1 +1,0 @@
-# IShopAt-snapfunc
