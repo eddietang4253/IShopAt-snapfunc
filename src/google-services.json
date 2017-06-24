@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1002836487211",
+    "firebase_url": "https://snapfunc-c6733.firebaseio.com",
+    "project_id": "snapfunc-c6733",
+    "storage_bucket": "snapfunc-c6733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002836487211:android:f4dc6f55bc22e71f",
+        "android_client_info": {
+          "package_name": "com.snapfunc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002836487211-3uqn0u09d9s0tnc3m4hrsf12tlqjhlnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvWf2PPwuLSaFHM01lJigLm4irStEFyAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
